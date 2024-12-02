@@ -11,7 +11,7 @@ import SwiftUI
 struct lio_swift_exampleApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WWDC24View()
         }
     }
 }
